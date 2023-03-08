@@ -1,0 +1,108 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.vision"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+11-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:5:5-70
+11-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:5:22-67
+12    <uses-permission android:name="android.permission.SEND_SMS" />
+12-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:6:5-67
+12-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.CALL_PHONE" />
+13-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:7:5-69
+13-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:7:22-66
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:8:5-65
+14-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:8:22-62
+15
+16    <application
+16-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:10:5-50:19
+17        android:allowBackup="true"
+17-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:11:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.3.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/8106c9afeb27cc0c50f85995740f877c/core-1.3.0/AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:12:9-43
+21        android:label="@string/app_name"
+21-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:13:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:14:9-54
+23        android:supportsRtl="true"
+23-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:15:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:16:9-40
+26        <activity android:name="com.example.vision.MainActivity" >
+26-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:17:9-23:20
+26-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:17:19-47
+27            <intent-filter>
+27-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:18:13-22:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:19:17-69
+28-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:19:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:21:17-77
+30-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:21:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:25:9-29:20
+34            android:name="com.example.vision.MessageActivity"
+34-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:26:13-44
+35            android:label="Message Inbox" >
+35-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:27:13-42
+36        </activity>
+37        <activity
+37-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:31:9-35:20
+38            android:name="com.example.vision.TimeDateActivity"
+38-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:32:13-45
+39            android:label="Battery Status" >
+39-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:33:13-43
+40        </activity>
+41        <activity
+41-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:37:9-41:20
+42            android:name="com.example.vision.PhoneActivity"
+42-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:38:13-42
+43            android:label="Phone Manager" >
+43-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:39:13-42
+44        </activity>
+45        <activity
+45-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:43:9-47:20
+46            android:name="com.example.vision.CameraActivity"
+46-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:44:13-43
+47            android:label="Currency Recognition" >
+47-->/Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:45:13-49
+48        </activity>
+49
+50        <provider
+50-->[androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:25:9-30:43
+51            android:name="androidx.camera.camera2.impl.Camera2Initializer"
+51-->[androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:26:13-75
+52            android:authorities="com.example.vision.camerax-init"
+52-->[androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:27:13-64
+53            android:exported="false"
+53-->[androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:28:13-37
+54            android:initOrder="100"
+54-->[androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:29:13-36
+55            android:multiprocess="true" />
+55-->[androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:30:13-40
+56
+57        <meta-data
+57-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/93be7174b7be54dada154bbbe746f6ab/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+58            android:name="com.google.android.gms.version"
+58-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/93be7174b7be54dada154bbbe746f6ab/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+59            android:value="@integer/google_play_services_version" />
+59-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/93be7174b7be54dada154bbbe746f6ab/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+60    </application>
+61
+62</manifest>
