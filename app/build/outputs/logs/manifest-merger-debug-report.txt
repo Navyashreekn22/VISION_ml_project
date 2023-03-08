@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:2:1-52:12
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/eddd3afdd70de58f8cd62a2efe1aaa1b/jetified-core-ktx-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/032e24418dc3433ce45e6fc5d71ee226/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/0686ca90b872620e1e93c4a9f2d2181e/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/c97b0db2e77adb45592bee740aa5d495/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/97573fd8ee0071872c0f381c5efa805a/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.camera:camera-core:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/686d15a82f7a7adc705695c70849006e/jetified-camera-core-1.0.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/67e3e7afc96cec543534aebda12543a8/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/b7dd0fc79243eeec5a001431355fbe4a/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e5bb84ba3299a534017769aebd77d86f/jetified-tensorflow-lite-gpu-0.0.0-nightly/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/93be7174b7be54dada154bbbe746f6ab/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/7619667f73099691456e81e3fedf8086/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/657d50daa571d2c9c1957826e0448d03/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/f66fa33308b0619d349f33f29e1b9234/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/1570490a9aefa8bf7c72c2091e5007e6/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/4bf5efb9c6ca1cc1042b4ed281aac9d8/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/c38deefe61a4b29c2fedadb5cb828cb9/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/cb7465d23e93e74bedcba12369934f8a/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/721dcdb357351f758b5df456f00974d6/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/5449d447cecb7a5b7105df425966ce92/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/8106c9afeb27cc0c50f85995740f877c/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/b37b2aeed146cfc3b1274c4cf21d4028/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/3ddb30a84fce9b9b71aef55559a9328d/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/b741faf0c0e978004788a3922a8a438d/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/8164904e8dbba255593df041e8bd30ea/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/59c8a6e28f96474652a981d6333afcdf/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/3a332f7b3ba12f0d97b1eff5486f8fcf/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/32691ed1dd96a709bdd6754d66b7ebfd/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/c20b3a9c01fac1c58487516ff423d6b0/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/68a64a089b7f098f26bb791f76de8be0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/24d5b49fe2b36ef44f901a0f8118cef3/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:5:5-70
+	android:name
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:5:22-67
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:7:22-66
+uses-permission#android.permission.CAMERA
+ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:8:22-62
+application
+ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:10:5-50:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/0686ca90b872620e1e93c4a9f2d2181e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/0686ca90b872620e1e93c4a9f2d2181e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/67e3e7afc96cec543534aebda12543a8/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/67e3e7afc96cec543534aebda12543a8/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/b7dd0fc79243eeec5a001431355fbe4a/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/b7dd0fc79243eeec5a001431355fbe4a/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e5bb84ba3299a534017769aebd77d86f/jetified-tensorflow-lite-gpu-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e5bb84ba3299a534017769aebd77d86f/jetified-tensorflow-lite-gpu-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/93be7174b7be54dada154bbbe746f6ab/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/93be7174b7be54dada154bbbe746f6ab/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/8106c9afeb27cc0c50f85995740f877c/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/8106c9afeb27cc0c50f85995740f877c/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/b741faf0c0e978004788a3922a8a438d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/b741faf0c0e978004788a3922a8a438d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/8106c9afeb27cc0c50f85995740f877c/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.vision.MainActivity
+ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.vision.MessageActivity
+ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:25:9-29:20
+	android:label
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:27:13-42
+	android:name
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:26:13-44
+activity#com.example.vision.TimeDateActivity
+ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:31:9-35:20
+	android:label
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:33:13-43
+	android:name
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:32:13-45
+activity#com.example.vision.PhoneActivity
+ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:37:9-41:20
+	android:label
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:39:13-42
+	android:name
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:38:13-42
+activity#com.example.vision.CameraActivity
+ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:43:9-47:20
+	android:label
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml:44:13-43
+uses-sdk
+INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/eddd3afdd70de58f8cd62a2efe1aaa1b/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/eddd3afdd70de58f8cd62a2efe1aaa1b/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/032e24418dc3433ce45e6fc5d71ee226/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/032e24418dc3433ce45e6fc5d71ee226/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/0686ca90b872620e1e93c4a9f2d2181e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/0686ca90b872620e1e93c4a9f2d2181e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/c97b0db2e77adb45592bee740aa5d495/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/c97b0db2e77adb45592bee740aa5d495/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/97573fd8ee0071872c0f381c5efa805a/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/97573fd8ee0071872c0f381c5efa805a/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/686d15a82f7a7adc705695c70849006e/jetified-camera-core-1.0.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/686d15a82f7a7adc705695c70849006e/jetified-camera-core-1.0.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/67e3e7afc96cec543534aebda12543a8/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/67e3e7afc96cec543534aebda12543a8/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/b7dd0fc79243eeec5a001431355fbe4a/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/b7dd0fc79243eeec5a001431355fbe4a/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e5bb84ba3299a534017769aebd77d86f/jetified-tensorflow-lite-gpu-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e5bb84ba3299a534017769aebd77d86f/jetified-tensorflow-lite-gpu-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/93be7174b7be54dada154bbbe746f6ab/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/93be7174b7be54dada154bbbe746f6ab/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/7619667f73099691456e81e3fedf8086/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/7619667f73099691456e81e3fedf8086/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/657d50daa571d2c9c1957826e0448d03/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/657d50daa571d2c9c1957826e0448d03/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/f66fa33308b0619d349f33f29e1b9234/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/f66fa33308b0619d349f33f29e1b9234/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/1570490a9aefa8bf7c72c2091e5007e6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/1570490a9aefa8bf7c72c2091e5007e6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/4bf5efb9c6ca1cc1042b4ed281aac9d8/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/4bf5efb9c6ca1cc1042b4ed281aac9d8/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/c38deefe61a4b29c2fedadb5cb828cb9/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/c38deefe61a4b29c2fedadb5cb828cb9/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/cb7465d23e93e74bedcba12369934f8a/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/cb7465d23e93e74bedcba12369934f8a/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/721dcdb357351f758b5df456f00974d6/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/721dcdb357351f758b5df456f00974d6/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/5449d447cecb7a5b7105df425966ce92/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/5449d447cecb7a5b7105df425966ce92/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/8106c9afeb27cc0c50f85995740f877c/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/8106c9afeb27cc0c50f85995740f877c/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/b37b2aeed146cfc3b1274c4cf21d4028/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/b37b2aeed146cfc3b1274c4cf21d4028/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/3ddb30a84fce9b9b71aef55559a9328d/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/3ddb30a84fce9b9b71aef55559a9328d/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/b741faf0c0e978004788a3922a8a438d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/b741faf0c0e978004788a3922a8a438d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/8164904e8dbba255593df041e8bd30ea/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/8164904e8dbba255593df041e8bd30ea/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/59c8a6e28f96474652a981d6333afcdf/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/59c8a6e28f96474652a981d6333afcdf/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/3a332f7b3ba12f0d97b1eff5486f8fcf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/3a332f7b3ba12f0d97b1eff5486f8fcf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/32691ed1dd96a709bdd6754d66b7ebfd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/32691ed1dd96a709bdd6754d66b7ebfd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/c20b3a9c01fac1c58487516ff423d6b0/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/c20b3a9c01fac1c58487516ff423d6b0/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/68a64a089b7f098f26bb791f76de8be0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/68a64a089b7f098f26bb791f76de8be0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/24d5b49fe2b36ef44f901a0f8118cef3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/24d5b49fe2b36ef44f901a0f8118cef3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+		MERGED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+		MERGED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ramyakn/Downloads/VISION/app/src/main/AndroidManifest.xml
+provider#androidx.camera.camera2.impl.Camera2Initializer
+ADDED from [androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:25:9-30:43
+	android:authorities
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:27:13-64
+	android:multiprocess
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:30:13-40
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha02] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/e36689310cafb3475908f32b0bbffedc/jetified-camera-camera2-1.0.0-alpha02/AndroidManifest.xml:26:13-75
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/93be7174b7be54dada154bbbe746f6ab/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/93be7174b7be54dada154bbbe746f6ab/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ramyakn/Applications/caches/transforms-2/files-2.1/93be7174b7be54dada154bbbe746f6ab/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
